@@ -1,0 +1,20 @@
+{
+    "name" : "Frosta",
+    "industry" : "Fullstack Developer",
+    "favoriteColors" : ["blue", "green", "red"],
+    "favoriteNumbers" : [3, 2, 7, 9, 5],
+    "favoritePeople" : [
+        {
+            "name": "mom",
+            "relationship": "mother"
+        },
+        {
+            "name": "dad",
+            "relationship": "father"
+        },
+        {
+            "name": "sister",
+            "relationship": "sister"
+        }
+    ]
+}
